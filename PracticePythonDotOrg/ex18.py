@@ -1,4 +1,4 @@
-#Cows And Bulls
+# Cows And Bulls
 
 import random
 
@@ -14,7 +14,7 @@ def main():
     
         print(f'Winner!. the generated number was {gen_4d_num}')
         game_loop = str(input('Would you like to play again? (y/n) \n > '))
-        
+
         if(game_loop.lower() != 'y'):
             break
 

@@ -1,7 +1,3 @@
-# This program is used to learn python
-# 
-#
-
 #Everthing in python is an object
 #In python theres list not arrays
 #None return means 'nothing'
