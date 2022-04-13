@@ -2,11 +2,10 @@ Important links
     main tutorial https://python.land
 
 Exercises
-    https://www.w3resource.com/projects/python/python-projects-3.php
+    https://www.practicepython.org/
     
-
-- Data structures and Algorithm
-    - big O, sorting
-
+To do:
 - django, flask*
-- PyUnit to do testing
+- PyUnit for testing
+- Python Concurrency
+- Python Crash Course Projects
