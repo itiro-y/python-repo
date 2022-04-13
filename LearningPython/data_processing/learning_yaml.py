@@ -42,11 +42,13 @@ names = yaml.safe_load(name_yaml)
 with open('/PythonStuff/LearningPython/data_processing/names.yml', 'w') as file:
     yaml.dump(names, file)
 
-print(open('/PythonStuff/LearningPython/data_processing/names.yml').read())
-
 # Converting YAML to JSON
 with open('/PythonStuff/LearningPython/data_processing/config.yml', 'r') as file:
     configuration = yaml.safe_load(file)
 
 with open('/PythonStuff/LearningPython/data_processing/config.json', 'w') as json_file:
     json.dump(configuration, json_file)
+
+# PyYAML safe_load() vs load()
+# load() is unsafe and will be deprecated
+# use safe_load(). its just better
