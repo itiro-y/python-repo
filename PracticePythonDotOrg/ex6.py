@@ -4,6 +4,8 @@
 
 def main():
     user_input = str(input('Enter a word: '))
+    # First approach
+
     # input_length = len(user_input) - 1
     # i = 0
 
@@ -18,6 +20,7 @@ def main():
     #         print('It is a palindrome')
     #         break
     
+    # Second, better approach
     reversed_input = user_input[::-1]
     if user_input == reversed_input:
         print('yes')

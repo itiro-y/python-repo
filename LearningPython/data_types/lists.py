@@ -156,4 +156,22 @@ new_new_list = list(reversed(my_list))
 print(new_new_list)
 
 
+#-------------------------------------------------------------------------------------------------------
+
+# zip() to convert a dict into 2 lists (one of values and another for keys)
+month = { "jan": 1, "feb":2, "march":3}
+
+# dict.items() returns key:values as tuples
+print(month.items())
+
+# zip() at the memory location (* to unpack the tuple into a single tuple)
+print(zip(*month.items()))
+
+# finally convert it back to lists
+# now we have [(keys), (values)]
+print(list(zip(*month.items())))
+
+
+
+
 

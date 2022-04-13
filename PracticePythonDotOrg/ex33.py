@@ -3,6 +3,9 @@
 # values are birth dates
 
 def main():
+    findPerson()
+
+def findPerson():
     lines = []
     name_birth_dict = {}
     with open('/PythonStuff/PracticePythonDotOrg/name-birth-dict.txt', 'r') as f:
@@ -15,7 +18,6 @@ def main():
         print(i, '\n')
     user_input = input("Who's birthday do you want to look up? \n >")
     print(f"\n {user_input}'s birthday is {name_birth_dict[user_input]}")
-
 
 if __name__ == '__main__':
     main()
