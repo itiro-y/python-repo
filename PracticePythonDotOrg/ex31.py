@@ -13,7 +13,6 @@ def main():
     displayHangman(word)
     
 
-
 def displayHangman(word):
     word_len = len(word)
     word_update = ['_' for x in range(word_len)]
@@ -51,6 +50,7 @@ def displayHangman(word):
         elif guesses == 6:
             print('You are out of guesses! GAME OVER')
             break
+
 
 def hangmanPicture():
     hangman = [["""
@@ -90,6 +90,7 @@ def hangmanPicture():
                    / \\   |
                 ========== """]]   
     return hangman
+
 
 if __name__ == '__main__':
     main()
