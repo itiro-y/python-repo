@@ -58,3 +58,6 @@ print(add_1(3))
 numbers = [1, 2, 3, 4]
 times_two = map(lambda x: x * 2, numbers)
 print(list(times_two))
+
+# map() + lambda is very useful to apply simple changes to an iterable object
+
