@@ -5,11 +5,28 @@ Important links
     main tutorial 
         https://python.land
 
+    documentation
+        https://docs.python.org/3/tutorial/index.html
+
     exercises
         https://www.practicepython.org/
-    
-Done:
-- Learning about Python
+        https://www.hackerrank.com/domains/python
+        https://joaoventura.net/static/files/python_exercises_book.pdf
+        https://edu.anarcho-copy.org/Programming%20Languages/Python/BigBookSmallPythonProjects.pdf
+
+    helpful websites
+        Fullstack Python
+            https://www.fullstackpython.com/table-of-contents.html
+        General and quick help
+            https://www.w3schools.com/python/
+        MIT full course in CPSC
+            https://ocw.mit.edu/search/?l=Undergraduate&s=department_course_numbers.sort_coursenum&t=Computer%20Science
+        30 Days of Python by CodingEntrepreneurs
+            https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6 
+
+
+Summary
+- Learning Python
     - datatypes
         - basic datatypes (int, float, string, bool)
         - lists
@@ -54,17 +71,15 @@ Done:
         - try, except, else, finally
         - raising/throwing exceptions
     
-- Practice
+- Practicing Python
     - Practice Python Dot Org
         - All exercises done (39 exercises)
-            - Covers all basics functionalities (with increasing difficulty) 
+            - Covers all basic functionalities (with increasing difficulty) 
        
 To do:
 - PyUnit for testing
 - Python Concurrency
 - Python Crash Course Projects
-
-Frameworks:
 - django, flask* (front-end)
 - OpenCV (image processing)
 - Numpy (math, numbers)
