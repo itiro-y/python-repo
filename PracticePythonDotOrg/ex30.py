@@ -10,7 +10,7 @@ def main():
 
 
 def getRandomWord(word_list):
-    max_count = len(word_list)
+    max_count = len(word_list) - 1
     rand_index = random.randint(0, max_count)
     return word_list[rand_index].strip()
 

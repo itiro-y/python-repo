@@ -44,7 +44,7 @@ def displayHangman(word):
             guesses += 1
             previous_guess = user_input
 
-        if  word_string.strip() == word:
+        if word_string.strip() == word:
             print('That is correct!')
             break
         elif guesses == 6:
