@@ -1,5 +1,3 @@
-# **Summary**
-
 ## **Learning Python**
 1. **basics**
     - print() function
