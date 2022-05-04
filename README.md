@@ -3,7 +3,7 @@
 **Summary**
 
 **Learning Python**
-- **basics**
+1. **basics**
     - print() function
         - f-string format
     - range() function
@@ -14,23 +14,23 @@
         - break, continue statements
         - nested loops
     - function basics
-- **data_types**
+2. **data_types**
     - lists
     - dictionary
     - sets
     - tuples
     - comprehensions
-- **iterator**
+3. **iterator**
     - how it works in Python
     - iterator vs iterable
     - built-in iterators
     - making your own iterator with __iter__method and __next__method
-- **function_adv**
+4. **function_adv**
     - advanced concepts
         - forced keyword arguments
         - wrapper function
         - lambda functions
-- **objects**
+5. **objects**
     - basics
         - "self"
         - constructors
@@ -38,39 +38,39 @@
         - creating instances, invoking a class
     - inheritance
         - overriding (methods, constructors)
-- **modules**
+6. **modules**
     - importing lib, modules
     - package
-- **OS_interacion**
+7. **OS_interacion**
     - w/r files
     - move, delete, create, rename files
     - file permissions, users and groups, file types
-- **data_processing**
+8. **data_processing**
     - JSON
     - YAML
     - requests lib
     - BeautifulSoup lib
-- **plotting**
+9. **plotting**
     - bokeh lib
-- **exceptions**
+10. **exceptions**
     - try, except, else, finally
     - raising/throwing exceptions
     
 **Practicing Python**
-- **PracticePythonDotOrg**
+1. **PracticePythonDotOrg**
     - All exercises done (39 exercises)
         - Covers all basic functionalities (with increasing difficulty) 
        
 **To do:**
-- range() advanced
-- Docstrings
-- Venvs, package management
-- Data classes
-- Python Concurrency
-- PyUnit
-- Python Crash Course Projects?
+1. range() advanced
+2. Docstrings
+3. Venvs, package management
+4. Data classes
+5. Python Concurrency
+6. PyUnit
+7. Python Crash Course Projects?
 
-- **Data Analysis**
+8. **Data Analysis**
     - Numpy
     - IPython
     - pandas
