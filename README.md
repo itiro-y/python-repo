@@ -1,7 +1,7 @@
 ## python-repo
 This repository has the purpose of showing my progress learning Python development (since the basics to the more advanced stuff) and the tools I used to learn and practice it. As well as, organize ideias for future projects.
 
-<details><summary> Learning Python </summary>
+<details><summary><h2> Learning Python </h2></summary>
 <p>
 
 1. **basics**
@@ -61,10 +61,15 @@ This repository has the purpose of showing my progress learning Python developme
 </p>    
 </details>    
 
-## **Practicing Python**
+<details><summary><h2>Practicing Python </h2></summary>
+</p>
+
 1. **PracticePythonDotOrg**
     - All exercises done (39 exercises)
         - Covers all basic functionalities (with increasing difficulty) 
+</p>
+</details>
+
        
 ## **To do:**
 - [x] range() advanced
