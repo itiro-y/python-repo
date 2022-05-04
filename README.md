@@ -4,7 +4,7 @@
 This repository has the purpose to show my self-study learning process in Python development (since the basics to the more advanced stuff), and to demonstrate the tools I used to learn and practice it. As well as, to organize ideias for future projects or anything that comes to mind.
 </p>
 
-<details><summary><h3> Learning Python </h3></summary>
+<details><summary><h3> Learning Python (so far...)</h3></summary>
 <p>
 
 1. **basics**
