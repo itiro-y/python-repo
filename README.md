@@ -85,7 +85,7 @@ This repository has the purpose of showing my self-study learning process in Pyt
 - [ ] MermaidJS + VS Code
 - [ ] Python Crash Course Projects?
 
-    **Data Analysis**
+    1. **Data Analysis**
         - [ ] Numpy
         - [ ] IPython
         - [ ] pandas
@@ -93,7 +93,7 @@ This repository has the purpose of showing my self-study learning process in Pyt
         - [ ] ScyPy
         - [ ] SQL
     
-    **Web Development**
+    2. **Web Development**
         - [ ] Flask
         - [ ] Django
 
