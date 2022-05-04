@@ -4,7 +4,7 @@
 This repository has the purpose of showing my self-study learning process in Python development (since the basics to the more advanced stuff), and demonstrating the tools I used to learn and practice it. As well as, organize ideias for future projects or anything that comes to mind.
 </p>
 
-<details><summary><h2> Learning Python </h2></summary>
+<details><summary><h3> Learning Python </h3></summary>
 <p>
 
 1. **basics**
@@ -64,7 +64,7 @@ This repository has the purpose of showing my self-study learning process in Pyt
 </p>    
 </details>    
 
-<details><summary><h2>Practicing Python </h2></summary>
+<details><summary><h3>Practicing Python </h3></summary>
 </p>
 
 1. **PracticePythonDotOrg**
@@ -74,7 +74,8 @@ This repository has the purpose of showing my self-study learning process in Pyt
 </details>
 
        
-## **To do:**
+<h3> To do: </h3>
+
 - [x] range() advanced
 - [ ] Docstrings
 - [ ] Venvs, package management
@@ -91,7 +92,8 @@ This repository has the purpose of showing my self-study learning process in Pyt
     - [ ] ScyPy
     - [ ] SQL
 
-## **References**
+<h3> References </h3>
+
 1. Basics of Python
     - [Python Land by Erik van Baaren](https://python.land)
     - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
