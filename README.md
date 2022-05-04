@@ -2,19 +2,22 @@
  
 Important links
 
-    main tutorial 
+    Basics of Python
         https://python.land
 
-    documentation
+    Data Analysis with Python
+        https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf
+
+    Python Documentation
         https://docs.python.org/3/tutorial/index.html
 
-    exercises
+    Exercises
         https://www.practicepython.org/
         https://www.hackerrank.com/domains/python
         https://joaoventura.net/static/files/python_exercises_book.pdf
         https://edu.anarcho-copy.org/Programming%20Languages/Python/BigBookSmallPythonProjects.pdf
 
-    helpful websites
+    Helpful Websites
         Fullstack Python
             https://www.fullstackpython.com/table-of-contents.html
         General and quick help
@@ -77,10 +80,20 @@ Summary
             - Covers all basic functionalities (with increasing difficulty) 
        
 To do:
-- PyUnit for testing
+- range() advanced
+- Docstrings
+- Venvs, package management
+- Data classes
 - Python Concurrency
-- Python Crash Course Projects
-- django, flask* (front-end)
-- OpenCV (image processing)
-- Numpy (math, numbers)
+- PyUnit
+- Python Crash Course Projects?
+
+Data Analysis
+- Numpy
+- IPython
+- pandas
+- matpltlib
+- ScyPy
+- SQL
+
 
