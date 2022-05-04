@@ -91,7 +91,7 @@ This repository has the purpose of showing my self-study learning process in Pyt
     - [ ] ScyPy
     - [ ] SQL
 
-## **Important Links**
+## **References**
 1. Basics of Python
     - [Python Land by Erik van Baaren](https://python.land)
 
