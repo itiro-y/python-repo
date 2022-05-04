@@ -1,8 +1,8 @@
 # python-repo
  
-    Summary
-Learning Python
-    - basics
+##**Summary**
+#Learning Python
+    - **basics**
         - print() function
             - f-string format
         - range() function
@@ -13,23 +13,23 @@ Learning Python
             - break, continue statements
             - nested loops
         - function basics
-    - data_types
+    - **data_types**
         - lists
         - dictionary
         - sets
         - tuples
         - comprehensions
-    - iterator
+    - **iterator**
         - how it works in Python
         - iterator vs iterable
         - built-in iterators
         - making your own iterator with __iter__method and __next__method
-    - function_adv
+    - **function_adv**
         - advanced concepts
             - forced keyword arguments
             - wrapper function
             - lambda functions
-    - objects
+    - **objects**
         - basics
             - "self"
             - constructors
@@ -37,30 +37,30 @@ Learning Python
             - creating instances, invoking a class
         - inheritance
             - overriding (methods, constructors)
-    - modules
+    - **modules**
         - importing lib, modules
         - package
-    - OS_interacion
+    - **OS_interacion**
         - w/r files
         - move, delete, create, rename files
         - file permissions, users and groups, file types
-    - data_processing
+    - **data_processing**
         - JSON
         - YAML
         - requests lib
         - BeautifulSoup lib
-    - plotting
+    - **plotting**
         - bokeh lib
-    - exceptions
+    - **exceptions**
         - try, except, else, finally
         - raising/throwing exceptions
     
-- Practicing Python
-    - PracticePythonDotOrg
+#Practicing Python
+    - **PracticePythonDotOrg**
         - All exercises done (39 exercises)
             - Covers all basic functionalities (with increasing difficulty) 
        
-To do:
+#To do:
 - range() advanced
 - Docstrings
 - Venvs, package management
@@ -69,12 +69,12 @@ To do:
 - PyUnit
 - Python Crash Course Projects?
 
-Data Analysis
-- Numpy
-- IPython
-- pandas
-- matpltlib
-- ScyPy
-- SQL
+- **Data Analysis**
+    - Numpy
+    - IPython
+    - pandas
+    - matpltlib
+    - ScyPy
+    - SQL
 
 
