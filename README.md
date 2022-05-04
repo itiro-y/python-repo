@@ -82,15 +82,20 @@ This repository has the purpose of showing my self-study learning process in Pyt
 - [ ] Data classes
 - [ ] Python Concurrency
 - [ ] PyUnit
+- [ ] MermaidJS + VS Code
 - [ ] Python Crash Course Projects?
 
-8. **Data Analysis**
-    - [ ] Numpy
-    - [ ] IPython
-    - [ ] pandas
-    - [ ] matpltlib
-    - [ ] ScyPy
-    - [ ] SQL
+    **Data Analysis**
+        - [ ] Numpy
+        - [ ] IPython
+        - [ ] pandas
+        - [ ] matpltlib
+        - [ ] ScyPy
+        - [ ] SQL
+    
+    **Web Development**
+        - [ ] Flask
+        - [ ] Django
 
 <h3> References </h3>
 
