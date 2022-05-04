@@ -1,5 +1,8 @@
-## python-repo
+
+<h2> python-repo </h2>
+<p>
 This repository has the purpose of showing my progress learning Python development (since the basics to the more advanced stuff) and the tools I used to learn and practice it. As well as, organize ideias for future projects.
+</p>
 
 <details><summary><h2> Learning Python </h2></summary>
 <p>
