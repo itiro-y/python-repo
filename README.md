@@ -1,7 +1,7 @@
 # python-repo
- 
-##**Summary**
-#Learning Python
+
+## **Summary**
+- # Learning Python
     - **basics**
         - print() function
             - f-string format
@@ -55,12 +55,12 @@
         - try, except, else, finally
         - raising/throwing exceptions
     
-#Practicing Python
+- # Practicing Python
     - **PracticePythonDotOrg**
         - All exercises done (39 exercises)
             - Covers all basic functionalities (with increasing difficulty) 
        
-#To do:
+# To do:
 - range() advanced
 - Docstrings
 - Venvs, package management
