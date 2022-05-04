@@ -30,8 +30,18 @@ Important links
 
 Summary
 - Learning Python
-    - datatypes
+    - basics
+        - print() function
+            - f-string format
+        - range() function
         - basic datatypes (int, float, string, bool)
+            - string methods
+        - conditionals (if, else, elif)
+        - loops (while, for)
+            - break, continue statements
+            - nested loops
+        - function basics
+    - data_types
         - lists
         - dictionary
         - sets
@@ -42,8 +52,7 @@ Summary
         - iterator vs iterable
         - built-in iterators
         - making your own iterator with __iter__method and __next__method
-    - function
-        - basics
+    - function_adv
         - advanced concepts
             - forced keyword arguments
             - wrapper function
@@ -59,11 +68,11 @@ Summary
     - modules
         - importing lib, modules
         - package
-    - OS interacion
+    - OS_interacion
         - w/r files
         - move, delete, create, rename files
         - file permissions, users and groups, file types
-    - data processing
+    - data_processing
         - JSON
         - YAML
         - requests lib
@@ -75,7 +84,7 @@ Summary
         - raising/throwing exceptions
     
 - Practicing Python
-    - Practice Python Dot Org
+    - PracticePythonDotOrg
         - All exercises done (39 exercises)
             - Covers all basic functionalities (with increasing difficulty) 
        
