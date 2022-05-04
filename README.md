@@ -94,6 +94,7 @@ This repository has the purpose of showing my self-study learning process in Pyt
 ## **References**
 1. Basics of Python
     - [Python Land by Erik van Baaren](https://python.land)
+    - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 
 2. Data Analysis with Python
     - [Python for Data Analysis Book](https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
@@ -105,7 +106,7 @@ This repository has the purpose of showing my self-study learning process in Pyt
     - [Practice Python by Michele Pratusevich](https://www.practicepython.org/)
     - [HackerRank](https://www.hackerrank.com/domains/python)
     - [Joao Ventura Python Exercises](https://joaoventura.net/static/files/python_exercises_book.pdf)
-    - [Big Book Small Python Projects by Eric Matthes](https://edu.anarcho-copy.org/Programming%20Languages/Python/BigBookSmallPythonProjects.pdf)
+    - [Big Book Small Python Projects by Al Sweigart](https://edu.anarcho-copy.org/Programming%20Languages/Python/BigBookSmallPythonProjects.pdf)
     - [Python Crash Course by Eric Matthes](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf)
 
 5. Helpful Websites
