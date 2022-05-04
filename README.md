@@ -1,7 +1,9 @@
 ## python-repo
-    This repository has the purpose to show my Python learning progress (since the basics to the more advanced stuff) and the tools I used to learn and practice it. As well as, organize ideias for future projects.
+This repository has the purpose of showing my progress learning Python development (since the basics to the more advanced stuff) and the tools I used to learn and practice it. As well as, organize ideias for future projects.
 
 <details><summary> Learning Python </summary>
+<p>
+
 1. **basics**
     - Installing Python3
     - Setting up an IDE (Visual Studio Code)
@@ -56,6 +58,7 @@
 10. **exceptions**
     - try, except, else, finally
     - raising/throwing exceptions
+</p>    
 </details>    
 
 ## **Practicing Python**
