@@ -3,16 +3,16 @@
     Summary
     Learning Python
         basics
-            print() function
-                f-string format
-            range() function
-            basic datatypes (int, float, string, bool)
-                string methods
-            conditionals (if, else, elif)
-            loops (while, for)
-                break, continue statements
-                nested loops
-            function basics
+            - print() function
+                - f-string format
+            - range() function
+            - basic datatypes (int, float, string, bool)
+                - string methods
+            - conditionals (if, else, elif)
+            - loops (while, for)
+                - break, continue statements
+                - nested loops
+            - function basics
         data_types
             lists
             dictionary
