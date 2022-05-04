@@ -1,5 +1,10 @@
+## python-repo
+    This repository has the purpose to show my Python learning progress (since the basics to the more advanced stuff) and the tools I used to learn and practice it. As well as, organize ideias for future projects.
+
 ## **Learning Python**
 1. **basics**
+    - Installing Python3
+    - Setting up an IDE (Visual Studio Code)
     - print() function
         - f-string format
     - range() function
@@ -76,24 +81,24 @@
 
 ## **Important Links**
 1. Basics of Python
-    - [Python Land](https://python.land)
+    - [Python Land by Erik van Baaren](https://python.land)
 
 2. Data Analysis with Python
     - [Python for Data Analysis Book](https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
 
-3. Python Documentation
+3. Documentation
     - [Python Official Documentation](https://docs.python.org/3/tutorial/index.html)
 
 4. Exercises
-    - [Practice Python](https://www.practicepython.org/)
+    - [Practice Python by Michele Pratusevich](https://www.practicepython.org/)
     - [HackerRank](https://www.hackerrank.com/domains/python)
     - [Joao Ventura Python Exercises](https://joaoventura.net/static/files/python_exercises_book.pdf)
     - [Big Book Small Python Projects](https://edu.anarcho-copy.org/Programming%20Languages/Python/BigBookSmallPythonProjects.pdf)
 
 5. Helpful Websites
-    - [Fullstack Python](https://www.fullstackpython.com/table-of-contents.html)
-    - [General and quick help](https://www.w3schools.com/python/)
-    - [MIT full course in CPSC](https://ocw.mit.edu/search/?l=Undergraduate&s=department_course_numbers.sort_coursenum&t=Computer%20Science)
+    - [Fullstack Python (overview)](https://www.fullstackpython.com/table-of-contents.html)
+    - [General and quick help (w3schools)](https://www.w3schools.com/python/)
+    - [MIT CPSC courses](https://ocw.mit.edu/search/?l=Undergraduate&s=department_course_numbers.sort_coursenum&t=Computer%20Science)
     - [30 Days of Python by CodingEntrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6 )
         
 
