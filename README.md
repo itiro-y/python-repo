@@ -1,7 +1,7 @@
 ## python-repo
     This repository has the purpose to show my Python learning progress (since the basics to the more advanced stuff) and the tools I used to learn and practice it. As well as, organize ideias for future projects.
 
-## **Learning Python**
+<details><summary> Learning Python </summary>
 1. **basics**
     - Installing Python3
     - Setting up an IDE (Visual Studio Code)
@@ -56,28 +56,29 @@
 10. **exceptions**
     - try, except, else, finally
     - raising/throwing exceptions
-    
+</details>    
+
 ## **Practicing Python**
 1. **PracticePythonDotOrg**
     - All exercises done (39 exercises)
         - Covers all basic functionalities (with increasing difficulty) 
        
 ## **To do:**
-1. range() advanced
-2. Docstrings
-3. Venvs, package management
-4. Data classes
-5. Python Concurrency
-6. PyUnit
-7. Python Crash Course Projects?
+- [x] range() advanced
+- [ ] Docstrings
+- [ ] Venvs, package management
+- [ ] Data classes
+- [ ] Python Concurrency
+- [ ] PyUnit
+- [ ] Python Crash Course Projects?
 
 8. **Data Analysis**
-    - Numpy
-    - IPython
-    - pandas
-    - matpltlib
-    - ScyPy
-    - SQL
+    - [ ] Numpy
+    - [ ] IPython
+    - [ ] pandas
+    - [ ] matpltlib
+    - [ ] ScyPy
+    - [ ] SQL
 
 ## **Important Links**
 1. Basics of Python
