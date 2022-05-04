@@ -105,7 +105,8 @@ This repository has the purpose of showing my self-study learning process in Pyt
     - [Practice Python by Michele Pratusevich](https://www.practicepython.org/)
     - [HackerRank](https://www.hackerrank.com/domains/python)
     - [Joao Ventura Python Exercises](https://joaoventura.net/static/files/python_exercises_book.pdf)
-    - [Big Book Small Python Projects](https://edu.anarcho-copy.org/Programming%20Languages/Python/BigBookSmallPythonProjects.pdf)
+    - [Big Book Small Python Projects by Eric Matthes](https://edu.anarcho-copy.org/Programming%20Languages/Python/BigBookSmallPythonProjects.pdf)
+    - [Python Crash Course by Eric Matthes](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf)
 
 5. Helpful Websites
     - [Fullstack Python (overview)](https://www.fullstackpython.com/table-of-contents.html)
