@@ -1,6 +1,4 @@
-# python-repo
-
-**Summary**
+# **Summary**
 
 **Learning Python**
 1. **basics**
@@ -56,12 +54,12 @@
     - try, except, else, finally
     - raising/throwing exceptions
     
-**Practicing Python**
+# **Practicing Python**
 1. **PracticePythonDotOrg**
     - All exercises done (39 exercises)
         - Covers all basic functionalities (with increasing difficulty) 
        
-**To do:**
+# **To do:**
 1. range() advanced
 2. Docstrings
 3. Venvs, package management
