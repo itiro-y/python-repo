@@ -32,6 +32,8 @@ The purpose of this repository is to show my self-study learning process in Pyth
     - built-in iterators
     - making your own iterator with __iter__method and __next__method
     - **range_func**
+        - how it works?
+        - practical uses
 4. **function_adv**
     - advanced concepts
         - forced keyword arguments
@@ -63,7 +65,7 @@ The purpose of this repository is to show my self-study learning process in Pyth
     - try, except, else, finally
     - raising/throwing exceptions
 11. **docstring**
-    - what are docstring?
+    - what are docstrings?
     - how to create and use it?
 
 </p>    
