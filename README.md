@@ -127,7 +127,7 @@
     </ul>
 </details>
 </p>      
-
+<br>
 <h2> Practicing Python </h2>
 <details><summary><b> PracticePythonDotOrg </b></summary>
     <ul>
@@ -138,7 +138,7 @@
         </li>
     </ul>
 </details>  
-
+<br>
 <h2> To do: </h2>
 <ul>
     <li> Data classes </li>
