@@ -90,6 +90,7 @@ print(range(0) == range(4, 2)) # True
 
 # range(0) == []
 # range(4, 2) == []
+# So, they are equal
 
 
 
