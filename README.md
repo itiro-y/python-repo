@@ -5,6 +5,7 @@
 </p>
 
 <details><summary><h3> Learning Python (so far...)</h3></summary>
+    <p>
     <details><summary><h4> basics </h4></summary>
         <ul>
             <li> installing Python3 </li>
@@ -124,7 +125,8 @@
             <li> venv, Pipenv </li>
             <li> pip  </li>
         </ul>
-    </details>   
+    </details>
+    </p>   
 </details>    
 
 <details><summary><h3>Practicing Python </h3></summary>
