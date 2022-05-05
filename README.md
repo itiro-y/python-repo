@@ -8,8 +8,8 @@ The purpose of this repository is to show my self-study learning process in Pyth
 <p>
 
 1. **basics**
-    - Installing Python3
-    - Setting up an IDE (Visual Studio Code)
+    - installing Python3
+    - setting up an IDE (Visual Studio Code)
     - print() function
         - f-string format
     - range() function
