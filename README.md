@@ -18,7 +18,7 @@
         <li> range() function </li>
         <li> basic datatypes (int, float, string, bool)
             <ul>
-                <li>string methods</li>
+                <li> string methods </li>
             </ul>
         </li>
         <li> conditionals (if, else, elif) </li>
@@ -171,7 +171,7 @@
     - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 
 2. Data Analysis with Python
-    - [Python for Data Analysis Book](https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
+    - [Python for Data Analysis Book by Wes McKinney](https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
 
 3. Documentation
     - [Python Official Documentation](https://docs.python.org/3/tutorial/index.html)
