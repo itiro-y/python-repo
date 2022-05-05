@@ -86,7 +86,6 @@ The purpose of this repository is to show my self-study learning process in Pyth
        
 <h3> To do: </h3>
 
-- [ ] Venvs, package management
 - [ ] Data classes
 - [ ] Python Concurrency
 - [ ] PyUnit
