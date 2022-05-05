@@ -9,17 +9,17 @@ The purpose of this repository is to show my self-study learning process in Pyth
 
 <details><summary><b> 1. basics </b></summary>
     <dl>
-        <dt> &emsp installing Python3 </dt>
-        <dt> &emsp setting up an IDE (Visual Studio Code) </dt>
-        <dt> &emsp print() function </dt>
+        <dt>    installing Python3 </dt>
+        <dt>    setting up an IDE (Visual Studio Code) </dt>
+        <dt>    print() function </dt>
             <dd> f-string format </dd>
-        <dt> &emsp range() function </dt>
-        <dt> &emsp basic datatypes (int, float, string, bool) </dt>
+        <dt>    range() function </dt>
+        <dt>    basic datatypes (int, float, string, bool) </dt>
             <dd> string methods </dd>
-        <dt> &emsp conditionals (if, else, elif) </dt>
-        <dt> &emsp loops (while, for) </dt>
+        <dt>    conditionals (if, else, elif) </dt>
+        <dt>    loops (while, for) </dt>
             <dd> break, continue statements <br> nested loops </dd>
-        <dt> &emsp function basics </dt>
+        <dt>    function basics </dt>
     </dl>
     </details>
 2. **data_types**
