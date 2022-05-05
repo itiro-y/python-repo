@@ -8,10 +8,10 @@ The purpose of this repository is to show my self-study learning process in Pyth
 <p>
 
 <details><summary><b> 1. basics </b></summary>
-    <p>
+    <pre>
     <dl>
-        <dt> installing Python3 </dt>
-        <dt> setting up an IDE (Visual Studio Code) </dt>
+        <dt>    installing Python3 </dt>
+        <dt>    setting up an IDE (Visual Studio Code) </dt>
         <dt> print() function </dt>
             <dd> f-string format </dd>
         <dt> range() function </dt>
@@ -22,7 +22,7 @@ The purpose of this repository is to show my self-study learning process in Pyth
             <dd> break, continue statements <br> nested loops </dd>
         <dt> function basics </dt>
     </dl>
-    </p>
+    </pre>
     </details>
 2. **data_types**
     - lists
