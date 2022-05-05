@@ -9,18 +9,18 @@ The purpose of this repository is to show my self-study learning process in Pyth
 
 <details><summary><b> 1. basics </b></summary>
     <dl>
-    <dt> - installing Python3 </dt>
-    <dt> - setting up an IDE (Visual Studio Code) </dt>
-    <dt> - print() function </dt>
-    <dd> - f-string format </dd>
-    <dt> - range() function </dt>
-    <dt> - basic datatypes (int, float, string, bool) </dt>
-    <dd> - string methods </dd>
-    <dt> - conditionals (if, else, elif) </dt>
-    <dt> - loops (while, for) </dt>
-    <dd> - break, continue statements </dd>
-    <dd> - nested loops </dd>
-    <dt> - function basics </dt>
+    <dt> -> installing Python3 </dt>
+    <dt> -> setting up an IDE (Visual Studio Code) </dt>
+    <dt> -> print() function </dt>
+    <dd> f-string format </dd>
+    <dt> -> range() function </dt>
+    <dt> -> basic datatypes (int, float, string, bool) </dt>
+    <dd> string methods </dd>
+    <dt> -> conditionals (if, else, elif) </dt>
+    <dt> -> loops (while, for) </dt>
+    <dd> break, continue statements </dd>
+    <dd> nested loops </dd>
+    <dt> -> function basics </dt>
     </dl>
     </details>
 2. **data_types**
