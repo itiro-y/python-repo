@@ -7,7 +7,7 @@ The purpose of this repository is to show my self-study learning process in Pyth
 <details><summary><h3> Learning Python (so far...)</h3></summary>
 <p>
 
-1. **basics**
+1. <details><summary><b>basics</b></summary>
     - installing Python3
     - setting up an IDE (Visual Studio Code)
     - print() function
@@ -20,6 +20,7 @@ The purpose of this repository is to show my self-study learning process in Pyth
         - break, continue statements
         - nested loops
     - function basics
+    </details>
 2. **data_types**
     - lists
     - dictionary
