@@ -6,7 +6,7 @@
 
 <details><summary><h3> Learning Python (so far...)</h3></summary>
     <p>
-    <details><summary><h4> basics </h4></summary>
+    <details><summary><b> basics </b></summary>
         <ul>
             <li> installing Python3 </li>
             <li> setting up an IDE (Visual Studio Code) </li>
@@ -31,7 +31,7 @@
             <li> function basics </li>
         <ul>
     </details>
-    <details><summary><h4> data_types </h4></summary>
+    <details><summary><b> data_types </b></summary>
         <ul>
             <li> lists </li>
             <li> dictionary </li>
@@ -40,7 +40,7 @@
             <li> comprehensions </li>
         </ul>
     </details>
-    <details><summary><h4> iterator </h4></summary>
+    <details><summary><b> iterator </b></summary>
         <ul>
             <li> how it works in Python </li>
             <li> iterator vs iterable </li>
@@ -54,7 +54,7 @@
             </li>
         </ul>
     </details>
-    <details><summary><h4> function_adv </h4></summary>
+    <details><summary><b> function_adv </b></summary>
         <ul>
             <li> advanced concepts 
                 <ul>
@@ -65,7 +65,7 @@
             </li>
         </ul>
     </details>
-    <details><summary><h4> objects </h4></summary>
+    <details><summary><b> objects </b></summary>
         <ul>
             <li> basics 
                 <ul>
@@ -82,20 +82,20 @@
             </li>
         </ul>
     </details>
-    <details><summary><h4> modules </h4></summary>
+    <details><summary><b> modules </b></summary>
         <ul>
             <li> importing lib, modules </li> 
             <li> package </li> 
         </ul>
     </details>
-    <details><summary><h4> OS_interacion </h4></summary>
+    <details><summary><b> OS_interacion </b></summary>
         <ul>
             <li> w/r files </li> 
             <li> move, delete, create, rename files </li> 
             <li> file permissions, users and groups, file types </li> 
         </ul>
     </details>
-    <details><summary><h4> data_processing </h4></summary>
+    <details><summary><b> data_processing </b></summary>
         <ul>
             <li> JSON </li>
             <li> YAML </li>
@@ -103,24 +103,24 @@
             <li> BeautifulSoup lib </li>
         </ul>
     </details>
-    <details><summary><h4> plotting </h4></summary>
+    <details><summary><b> plotting </b></summary>
         <ul>
             <li> bokeh lib </li>
         </ul>
     </details>
-    <details><summary><h4> exceptions </h4></summary>
+    <details><summary><b> exceptions </b></summary>
         <ul>
             <li> try, except, else, finally </li>
             <li> raising/throwing exceptions </li>
         </ul>
     </details>
-    <details><summary><h4> docstring </h4></summary>
+    <details><summary><b> docstring </b></summary>
         <ul>
             <li> what are docstrings? </li>
             <li> how to create and use it? </li>
         </ul>
     </details>
-    <details><summary><h4> venv_packages </h4></summary>
+    <details><summary><b> venv_packages </b></summary>
         <ul>
             <li> venv, Pipenv </li>
             <li> pip  </li>
@@ -130,7 +130,7 @@
 </details>    
 
 <details><summary><h3>Practicing Python </h3></summary>
-    <details><summary><h4> PracticePythonDotOrg </h4></summary>
+    <details><summary><b> PracticePythonDotOrg </b></summary>
         <ul>
             <li> All exercises done (39 exercises) 
                 <ul>
