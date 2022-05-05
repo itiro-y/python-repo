@@ -4,8 +4,7 @@
     The purpose of this repository is to show my self-study learning process in Python development (from the basics to the more advanced concepts), and to demonstrate the tools I used to learn and practice it. As well as, to organize ideias for future projects or anything that comes to mind.
 </p>
 
-<h3> Learning Python (so far...) </h3>
-<hr>
+<h2> Learning Python (so far...) </h2>
 <p>
 <details><summary><b> basics </b></summary>
     <ul>
@@ -129,8 +128,7 @@
 </details>
 </p>      
 
-<h3> Practicing Python </h3>
-<hr>
+<h2> Practicing Python </h2>
 <details><summary><b> PracticePythonDotOrg </b></summary>
     <ul>
         <li> All exercises done (39 exercises) 
@@ -141,8 +139,7 @@
     </ul>
 </details>  
 
-<h3> To do: </h3>
-<hr>
+<h2> To do: </h2>
 <ul>
     <li> Data classes </li>
     <li> Python Concurrency </li>
