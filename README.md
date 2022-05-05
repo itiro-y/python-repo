@@ -156,7 +156,7 @@
             <li> SQL </li>
         </ul> 
     </b></li>
-    <li><b>
+    <li><b> Web Development
         <ul>
             <li> Flask </li>
             <li> Django </li>
@@ -164,7 +164,7 @@
     </b></li>
 </ul>
 
-<h3> References </h3>
+<h2> References </h2>
 
 1. Basics of Python
     - [Python Land by Erik van Baaren](https://python.land)
