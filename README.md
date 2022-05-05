@@ -4,130 +4,129 @@
     The purpose of this repository is to show my self-study learning process in Python development (from the basics to the more advanced concepts), and to demonstrate the tools I used to learn and practice it. As well as, to organize ideias for future projects or anything that comes to mind.
 </p>
 
-<details><summary><h3> Learning Python (so far...)</h3></summary>
-    <p>
-    <details><summary><b> basics </b></summary>
-        <ul>
-            <li> installing Python3 </li>
-            <li> setting up an IDE (Visual Studio Code) </li>
-            <li> print() function
-                <ul>
-                    <li> f-string format </li>
-                </ul>
-            </li>
-            <li> range() function </li>
-            <li> basic datatypes (int, float, string, bool)
-                <ul>
-                    <li>string methods</li>
-                </ul>
-            </li>
-            <li> conditionals (if, else, elif) </li>
-            <li> loops (while, for)
-                <ul>
-                    <li> break, continue statements </li>
-                    <li> nested loops </li>
-                </ul>
-            </li>    
-            <li> function basics </li>
-        <ul>
-    </details>
-    <details><summary><b> data_types </b></summary>
-        <ul>
-            <li> lists </li>
-            <li> dictionary </li>
-            <li> sets </li>
-            <li> tuples </li>
-            <li> comprehensions </li>
-        </ul>
-    </details>
-    <details><summary><b> iterator </b></summary>
-        <ul>
-            <li> how it works in Python </li>
-            <li> iterator vs iterable </li>
-            <li> built-in iterators </li>
-            <li> making your own iterator with __iter__method and __next__method </li>
-            <li> range_func
-                <ul>
-                    <li> how it works? </li>
-                    <li> practical uses </li>
-                <ul>
-            </li>
-        </ul>
-    </details>
-    <details><summary><b> function_adv </b></summary>
-        <ul>
-            <li> advanced concepts 
-                <ul>
-                    <li> forced keyword arguments </li>
-                    <li> wrapper function </li>
-                    <li> lambda functions </li>
-                </ul>
-            </li>
-        </ul>
-    </details>
-    <details><summary><b> objects </b></summary>
-        <ul>
-            <li> basics 
-                <ul>
-                    <li> "self" </li>
-                    <li> constructors </li>
-                    <li> methods </li>
-                    <li> creating instances, invoking a class </li>
-                </ul>
-            </li>
-            <li> inheritance
-                <ul> 
-                    <li> overriding (methods, constructors) </li>
-                </ul>
-            </li>
-        </ul>
-    </details>
-    <details><summary><b> modules </b></summary>
-        <ul>
-            <li> importing lib, modules </li> 
-            <li> package </li> 
-        </ul>
-    </details>
-    <details><summary><b> OS_interacion </b></summary>
-        <ul>
-            <li> w/r files </li> 
-            <li> move, delete, create, rename files </li> 
-            <li> file permissions, users and groups, file types </li> 
-        </ul>
-    </details>
-    <details><summary><b> data_processing </b></summary>
-        <ul>
-            <li> JSON </li>
-            <li> YAML </li>
-            <li> requests lib </li>
-            <li> BeautifulSoup lib </li>
-        </ul>
-    </details>
-    <details><summary><b> plotting </b></summary>
-        <ul>
-            <li> bokeh lib </li>
-        </ul>
-    </details>
-    <details><summary><b> exceptions </b></summary>
-        <ul>
-            <li> try, except, else, finally </li>
-            <li> raising/throwing exceptions </li>
-        </ul>
-    </details>
-    <details><summary><b> docstring </b></summary>
-        <ul>
-            <li> what are docstrings? </li>
-            <li> how to create and use it? </li>
-        </ul>
-    </details>
-    <details><summary><b> venv_packages </b></summary>
-        <ul>
-            <li> venv, Pipenv </li>
-            <li> pip  </li>
-        </ul>
-    </details>
-    </p>   
-</details>    
+<h3> Learning Python (so far...) </h3>
+<p>
+<details><summary><b> basics </b></summary>
+    <ul>
+        <li> installing Python3 </li>
+        <li> setting up an IDE (Visual Studio Code) </li>
+        <li> print() function
+            <ul>
+                <li> f-string format </li>
+            </ul>
+        </li>
+        <li> range() function </li>
+        <li> basic datatypes (int, float, string, bool)
+            <ul>
+                <li>string methods</li>
+            </ul>
+        </li>
+        <li> conditionals (if, else, elif) </li>
+        <li> loops (while, for)
+            <ul>
+                <li> break, continue statements </li>
+                <li> nested loops </li>
+            </ul>
+        </li>    
+        <li> function basics </li>
+    <ul>
+</details>
+<details><summary><b> data_types </b></summary>
+    <ul>
+        <li> lists </li>
+        <li> dictionary </li>
+        <li> sets </li>
+        <li> tuples </li>
+        <li> comprehensions </li>
+    </ul>
+</details>
+<details><summary><b> iterator </b></summary>
+    <ul>
+        <li> how it works in Python </li>
+        <li> iterator vs iterable </li>
+        <li> built-in iterators </li>
+        <li> making your own iterator with __iter__method and __next__method </li>
+        <li> range_func
+            <ul>
+                <li> how it works? </li>
+                <li> practical uses </li>
+            <ul>
+        </li>
+    </ul>
+</details>
+<details><summary><b> function_adv </b></summary>
+    <ul>
+        <li> advanced concepts 
+            <ul>
+                <li> forced keyword arguments </li>
+                <li> wrapper function </li>
+                <li> lambda functions </li>
+            </ul>
+        </li>
+    </ul>
+</details>
+<details><summary><b> objects </b></summary>
+    <ul>
+        <li> basics 
+            <ul>
+                <li> "self" </li>
+                <li> constructors </li>
+                <li> methods </li>
+                <li> creating instances, invoking a class </li>
+            </ul>
+        </li>
+        <li> inheritance
+            <ul> 
+                <li> overriding (methods, constructors) </li>
+            </ul>
+        </li>
+    </ul>
+</details>
+<details><summary><b> modules </b></summary>
+    <ul>
+        <li> importing lib, modules </li> 
+        <li> package </li> 
+    </ul>
+</details>
+<details><summary><b> OS_interacion </b></summary>
+    <ul>
+        <li> w/r files </li> 
+        <li> move, delete, create, rename files </li> 
+        <li> file permissions, users and groups, file types </li> 
+    </ul>
+</details>
+<details><summary><b> data_processing </b></summary>
+    <ul>
+        <li> JSON </li>
+        <li> YAML </li>
+        <li> requests lib </li>
+        <li> BeautifulSoup lib </li>
+    </ul>
+</details>
+<details><summary><b> plotting </b></summary>
+    <ul>
+        <li> bokeh lib </li>
+    </ul>
+</details>
+<details><summary><b> exceptions </b></summary>
+    <ul>
+        <li> try, except, else, finally </li>
+        <li> raising/throwing exceptions </li>
+    </ul>
+</details>
+<details><summary><b> docstring </b></summary>
+    <ul>
+        <li> what are docstrings? </li>
+        <li> how to create and use it? </li>
+    </ul>
+</details>
+<details><summary><b> venv_packages </b></summary>
+    <ul>
+        <li> venv, Pipenv </li>
+        <li> pip  </li>
+    </ul>
+</details>
+</p>      
 
 <details><summary><h3>Practicing Python </h3></summary>
     <details><summary><b> PracticePythonDotOrg </b></summary>
