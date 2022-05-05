@@ -5,6 +5,7 @@
 </p>
 
 <h3> Learning Python (so far...) </h3>
+<hr>
 <p>
 <details><summary><b> basics </b></summary>
     <ul>
@@ -128,19 +129,20 @@
 </details>
 </p>      
 
-<details><summary><h3>Practicing Python </h3></summary>
-    <details><summary><b> PracticePythonDotOrg </b></summary>
-        <ul>
-            <li> All exercises done (39 exercises) 
-                <ul>
-                    <li> Covers all basic functionalities (with increasing difficulty)  </li>
-                </ul>
-            </li>
-        </ul>
-    </details>  
-</details>
+<h3> Practicing Python </h3>
+<hr>
+<details><summary><b> PracticePythonDotOrg </b></summary>
+    <ul>
+        <li> All exercises done (39 exercises) 
+            <ul>
+                <li> Covers all basic functionalities (with increasing difficulty)  </li>
+            </ul>
+        </li>
+    </ul>
+</details>  
 
 <h3> To do: </h3>
+<hr>
 <ul>
     <li> Data classes </li>
     <li> Python Concurrency </li>
