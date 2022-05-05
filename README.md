@@ -67,6 +67,9 @@ The purpose of this repository is to show my self-study learning process in Pyth
 11. **docstring**
     - what are docstrings?
     - how to create and use it?
+12. **venv_packages**
+    - venv, Pipenv
+    - pip
 
 </p>    
 </details>    
