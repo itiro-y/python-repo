@@ -74,8 +74,8 @@
                     <li> creating instances, invoking a class </li>
                 </ul>
             </li>
-            <li> 
-                <ul> inheritance
+            <li> inheritance
+                <ul> 
                     <li> overriding (methods, constructors) </li>
                 </ul>
             </li>
@@ -102,49 +102,67 @@
             <li> BeautifulSoup lib </li>
         </ul>
     </details>
-
-    9. **plotting**
-        - bokeh lib
-    10. **exceptions**
-        - try, except, else, finally
-        - raising/throwing exceptions
-    11. **docstring**
-        - what are docstrings?
-        - how to create and use it?
-    12. **venv_packages**
-        - venv, Pipenv
-        - pip     
+    <details><summary><h4> plotting </h4></summary>
+        <ul>
+            <li> bokeh lib </li>
+        </ul>
+    </details>
+    <details><summary><h4> exceptions </h4></summary>
+        <ul>
+            <li> try, except, else, finally </li>
+            <li> raising/throwing exceptions </li>
+        </ul>
+    </details>
+    <details><summary><h4> docstring </h4></summary>
+        <ul>
+            <li> what are docstrings? </li>
+            <li> how to create and use it? </li>
+        </ul>
+    </details>
+    <details><summary><h4> venv_packages </h4></summary>
+        <ul>
+            <li> venv, Pipenv </li>
+            <li> pip  </li>
+        </ul>
+    </details>   
 </details>    
 
 <details><summary><h3>Practicing Python </h3></summary>
-</p>
-
-1. **PracticePythonDotOrg**
-    - All exercises done (39 exercises)
-        - Covers all basic functionalities (with increasing difficulty) 
-</p>
+    <details><summary><h4> PracticePythonDotOrg </h4></summary>
+        <ul>
+            <li> All exercises done (39 exercises) 
+                <ul>
+                    <li> Covers all basic functionalities (with increasing difficulty)  </li>
+                </ul>
+            </li>
+        </ul>
+    </details>  
 </details>
 
-       
 <h3> To do: </h3>
-
-- [ ] Data classes
-- [ ] Python Concurrency
-- [ ] PyUnit
-- [ ] MermaidJS + VS Code
-- [ ] Python Crash Course Projects?
-
-    1. **Data Analysis**
-        - [ ] Numpy
-        - [ ] IPython
-        - [ ] pandas
-        - [ ] matpltlib
-        - [ ] ScyPy
-        - [ ] SQL
-    
-    2. **Web Development**
-        - [ ] Flask
-        - [ ] Django
+<ul>
+    <li> Data classes </li>
+    <li> Python Concurrency </li>
+    <li> PyUnit </li>
+    <li> MermaidJS + VS Code </li>
+    <li> Python Crash Course Projects? </li>
+    <li><b> Data Analysis
+        <ul>
+            <li> Numpy </li>
+            <li> IPython </li>
+            <li> pandas </li>
+            <li> matplotlib </li>
+            <li> ScyPy </li>
+            <li> SQL </li>
+        </ul> 
+    </b></li>
+    <li><b>
+        <ul>
+            <li> Flask </li>
+            <li> Django </li>
+        </ul> 
+    </b></li>
+</ul>
 
 <h3> References </h3>
 
