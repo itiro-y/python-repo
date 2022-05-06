@@ -126,6 +126,12 @@
         <li> pip  </li>
     </ul>
 </details>
+<details><summary><b> concurrency </b></summary>
+    <ul>
+        <li> theory </li>
+        <li> basics  </li>
+    </ul>
+</details>
 </p>      
 <br>
 <h2> Practicing Python </h2>
