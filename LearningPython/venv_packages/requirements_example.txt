@@ -1,0 +1,4 @@
+# Examples of pinning down versions of packages
+simplejson==3.17.0
+#chardet==3.0.4
+bs4 >= 3.0, <= 3.5
