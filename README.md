@@ -122,13 +122,23 @@
 </details>
 <details><summary><b> venv_packages </b></summary>
     <ul>
-        <li> venv, Pipenv </li>
-        <li> pip  </li>
+        <li> virtual environment </li>
+        <li> pip </li>
+        <li> pipenv </li>
     </ul>
 </details>
 <details><summary><b> concurrency </b></summary>
     <ul>
-        <li> theory </li>
+        <li> theory
+            <ul>
+                <li> threading </li>
+                <li> multiprocessing </li>
+                <li> asynchronous IO </li>
+                <li> I/O bound vs CPU bound software </li>
+                <li> PyPy </li>
+                <li> Cython </li>
+            </ul> 
+        </li>
         <li> basics  </li>
     </ul>
 </details>
