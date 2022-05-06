@@ -93,6 +93,7 @@
         <li> w/r files </li> 
         <li> move, delete, create, rename files </li> 
         <li> file permissions, users and groups, file types </li> 
+        <li> checking python version in code </li> 
     </ul>
 </details>
 <details><summary><b> data_processing </b></summary>
@@ -139,7 +140,14 @@
                 <li> Cython </li>
             </ul> 
         </li>
-        <li> basics  </li>
+        <li> examples 
+            <ul>
+                <li> single threaded (cpu bound ex.) </li>
+                <li> threading (cpu bound and io bound ex.) </li>
+                <li> multiprocessing (cpu bound) </li>
+                <li> multiprocessing (cpu bound) using pool </li>
+            </ul>
+        </li>
     </ul>
 </details>
 </p>      
@@ -158,7 +166,13 @@
 <h2> To do: </h2>
 <ul>
     <li> Data classes </li>
-    <li> Python Concurrency </li>
+    <li> Deployment 
+        <ul>
+            <li> using docker </li>
+            <li> automation using CI/CD </li>
+            <li> guerrilla scale web application </li>
+        </ul>
+    </li>
     <li> PyUnit </li>
     <li> MermaidJS + VS Code </li>
     <li> Python Crash Course Projects? </li>

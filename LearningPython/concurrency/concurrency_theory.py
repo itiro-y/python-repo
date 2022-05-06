@@ -55,7 +55,7 @@
 # only introduce more overhead: there's some administration involved in constantly switching between threads
 
 
-# Python concurrenmcy with asyncio
+# Python concurrency with asyncio
 
 # Being a relatively new core library in Python. It solves the same problem as threading: it speeds up I/O 
 # bound software, but it does so differently. The library has evolved a lot in the past years, so some code
