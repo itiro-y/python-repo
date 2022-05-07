@@ -149,7 +149,12 @@ prompt_code = input('Insert here code: ')
 
 type_code(prompt_num, prompt_code) 
 
-#-----------------------------------------------------------------
+# swap two python variables without a third one
+a = 1
+b = 2
+a, b = b, a
+print(a) # 2
+print(b) # 1
 
 
 

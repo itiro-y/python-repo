@@ -80,6 +80,7 @@
                 <li> overriding (methods, constructors) </li>
             </ul>
         </li>
+        <li> data classes </li>
     </ul>
 </details>
 <details><summary><b> modules </b></summary>
@@ -150,6 +151,11 @@
         </li>
     </ul>
 </details>
+<details><summary><b> image_processing </b></summary>
+    <ul>
+        <li> Pillow lib </li>
+    </ul>
+</details>
 </p>      
 <br>
 <h2> Practicing Python </h2>
@@ -165,7 +171,6 @@
 <br>
 <h2> To do: </h2>
 <ul>
-    <li> Data classes </li>
     <li> Deployment 
         <ul>
             <li> using docker </li>
@@ -174,6 +179,7 @@
         </ul>
     </li>
     <li> PyUnit </li>
+    <li> Jupyter Notebook </li>
     <li> MermaidJS + VS Code </li>
     <li> Python Crash Course Projects? </li>
     <li><b> Data Analysis
