@@ -239,7 +239,6 @@
     </li>
     <li> PyUnit </li>
     <li> Jupyter Notebook </li>
-    <li> MermaidJS + VS Code </li>
     <li> Python Crash Course Projects? </li>
     <li><b> Data Analysis
         <ul>
