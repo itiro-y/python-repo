@@ -160,6 +160,7 @@
 </details>
 <details><summary><b> mermaid_js in VS Code </b></summary>
     <ul>
+        <li> exporting diagrams with mermaid.live </li>
         <li> class diagrams </li>
         <li> entity relationship diagrams </li>
         <li> flowcharts </li>
