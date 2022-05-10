@@ -2,6 +2,8 @@
 <h1> python-repo </h1>
 <p>
     The purpose of this project is to organize my self-study learning process in Python development, and to demonstrate the methods I used to learn and practice it.
+
+    Start Date: Apr 8th, 2022
 </p>
 
 <h2> Learning Python (so far...) </h2>
