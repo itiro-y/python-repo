@@ -2,6 +2,8 @@
 <h1> python-repo </h1>
 <p>
     The purpose of this project is to organize my self-study learning process in Python development, and to demonstrate the methods I used to learn and practice it.
+
+    Start Date: Apr 8th, 2022
 </p>
 
 <h2> Learning Python (so far...) </h2>
@@ -156,16 +158,74 @@
         <li> Pillow lib </li>
     </ul>
 </details>
+<details><summary><b> mermaid_js in VS Code </b></summary>
+    <ul>
+        <li> exporting diagrams with mermaid.live </li>
+        <li> class diagrams </li>
+        <li> entity relationship diagrams </li>
+        <li> flowcharts </li>
+        <li> sequence diagrams </li>
+    </ul>
+</details>
 </p>      
 <br>
 <h2> Practicing Python </h2>
 <details><summary><b> PracticePythonDotOrg </b></summary>
     <ul>
-        <li> All exercises done (39 exercises) 
+        <details><summary> All exercises done </summary>
             <ul>
-                <li> Covers all basic functionalities (with increasing difficulty)  </li>
+                <li> Ex. 1: Character Input </li>
+                <li> Ex. 2: Odd or Even </li>
+                <li> Ex. 3: List Less Than Ten </li>
+                <li> Ex. 4: Divisors </li>
+                <li> Ex. 5: List Overlap </li>
+                <li> Ex. 6: String List </li>
+                <li> Ex. 7: List Comprehensions </li>
+                <li> Ex. 8: Rock Paper Scissors </li>
+                <li> Ex. 9: Guessing Game One </li>
+                <li> Ex. 10: List Overlap Comprehensions </li>
+                <li> Ex. 11: Check Primality Functions </li>
+                <li> Ex. 12: List Ends </li>
+                <li> Ex. 13: Fibonnaci </li>
+                <li> Ex. 14: List Remove Duplicates </li>
+                <li> Ex. 15: Reverse Word Order </li>
+                <li> Ex. 16: Password Generator </li>
+                <li> Ex. 17: Decode A Web Page </li>
+                <li> Ex. 18: Cows And Bulls </li>
+                <li> Ex. 19: Decode A Web Page Two </li>
+                <li> Ex. 20: Element Search </li>
+                <li> Ex. 21: Write To A File </li>
+                <li> Ex. 22: Read From FIle </li>
+                <li> Ex. 23: File Overlap </li>
+                <li><details><summary>Ex. 24, 26, 27, 29: Tic Tac Toe Game </summary>
+                    <ul>
+                        <li> Ex. 24: Draw a Game Board </li>
+                        <li> Ex. 26: Check Tic Tac Toe </li>
+                        <li> Ex. 27: Tic Tac Toe Draw </li>
+                        <li> Ex. 29: Tic Tac Toe Game </li>
+                    </ul>
+                </details></li>
+                <li> Ex. 25: Guessing Game Two </li>
+                <li> Ex. 28: Max Of Three </li>
+                <li><details><summary> Ex. 30, 31, 32: Hangman Game </summary>
+                    <ul>
+                        <li> Ex. 30: Pick Word </li>
+                        <li> Ex. 31: Guess Letters </li>
+                        <li> Ex. 32: Hangman Game </li>
+                    </ul>
+                </details></li>
+                <li><details><summary> Ex. 33, 34, 35, 36: Birthday Data </summary>
+                    <ul>
+                        <li> Ex. 33: Birthday Dictionaries </li>
+                        <li> Ex. 34: Birthday Json </li>
+                        <li> Ex. 35: Birth Months </li>
+                        <li> Ex. 36: Birthday Plots </li>
+                    </ul>
+                </details></li>
+                <li> Ex. 37: Function Refactor </li>
+                <li> Ex. 38: F Strings </li>
+                <li> Ex. 39: Character Input Datetime </li>
             </ul>
-        </li>
     </ul>
 </details>  
 <br>
@@ -180,7 +240,6 @@
     </li>
     <li> PyUnit </li>
     <li> Jupyter Notebook </li>
-    <li> MermaidJS + VS Code </li>
     <li> Python Crash Course Projects? </li>
     <li><b> Data Analysis
         <ul>
