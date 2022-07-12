@@ -49,7 +49,6 @@
 # install from a requirements.txt file
 # run cmd: pip install -r requirements.txt
 
-
 # Custom repository with pip install -i
 
 # by default the PyPI repository is located at https://pypi.org/simple/
